@@ -1,0 +1,3 @@
+rootProject.name = "Simple Login"
+include ':app'
+include ':kmmsharedmodule'
